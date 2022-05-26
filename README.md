@@ -27,8 +27,8 @@
 ### Q
 ### R
 ### S
-- [Seth Meyers-Lobby Baby [中文]](https://github.com/xifan2333/stand-up-comedy-subtitles/blob/main/subtitles/Seth%20Meyers%EF%BC%9ALobby%20Baby.zh-Hans.txt)
-- [Seth Meyers-Lobby Baby [英文]](https://github.com/xifan2333/stand-up-comedy-subtitles/blob/main/subtitles/Seth%20Meyers%EF%BC%9ALobby%20Baby.en.txt)
+- [Seth Meyers-Lobby Baby [中文]](https://github.com/xifan2333/stand-up-comedy-subtitles/blob/main/subtitles/Seth%20Meyers-Lobby%20Baby.zh-Hans.txt)
+- [Seth Meyers-Lobby Baby [英文]](https://github.com/xifan2333/stand-up-comedy-subtitles/blob/main/subtitles/Seth%20Meyers-Lobby%20Baby.en.txt)
 ### T
 ### U
 ### V
