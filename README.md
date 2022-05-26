@@ -10,7 +10,7 @@
 ### H
 ### I
 ### J
-- [James Acaster-Repertoire.S01E01.Recognise [英文]](https://github.com/xifan2333/stand-up-comedy-subtitles/blob/main/subtitles/James%20Acaster-Repertoire.S01E01.Recognis.en.txt)
+- [James Acaster-Repertoire.S01E01.Recognise [英文]](https://github.com/xifan2333/stand-up-comedy-subtitles/blob/main/subtitles/James%20Acaster-Repertoire.S01E01.Recognise.en.txt)
 - [James Acaster-Repertoire.S01E01.Recognise [中文]](https://github.com/xifan2333/stand-up-comedy-subtitles/blob/main/subtitles/James%20Acaster-Repertoire.S01E01.Recognise.zh-Hans.txt)
 - [James Acaster-Repertoire.S01E02.Represent [英文]](https://github.com/xifan2333/stand-up-comedy-subtitles/blob/main/subtitles/James%20Acaster-Repertoire.S01E02.Represent.en.txt)
 - [James Acaster-Repertoire.S01E02.Represent [中文]](https://github.com/xifan2333/stand-up-comedy-subtitles/blob/main/subtitles/James%20Acaster-Repertoire.S01E02.Represent.zh-Hans.txt)
