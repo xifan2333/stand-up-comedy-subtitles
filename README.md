@@ -16,7 +16,7 @@
 - [James Acaster-Repertoire.S01E02.Represent [中文]]()
 - [James Acaster-Repertoire.S01E03.Reset [英文]]()
 - [James Acaster-Repertoire.S01E03.Reset [中文]]()
--_[James Acaster-Repertoire.S01E04.Recap [英文]]()
+- [James Acaster-Repertoire.S01E04.Recap [英文]]()
 - [James Acaster-Repertoire.S01E04.Recap [中文]]()
 ### K
 ### L
